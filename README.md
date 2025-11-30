@@ -38,7 +38,7 @@ Sensors → Arduino → ML Model → Crop Prediction
 
 
 **IoT Architecture Image:**  
-![IoT Architecture](./)
+![IoT Architecture](./https://github.com/snehal-145/Machine_Learning_project/blob/main/IOT.png)
 
 **Microcontroller Setup:**  
 ![Arduino Setup](./path_to_microcontroller_image)
