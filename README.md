@@ -41,7 +41,7 @@ Sensors → Arduino → ML Model → Crop Prediction
 ![IoT Architecture](./IOT.png)
 
 **Microcontroller Setup:**  
-![Arduino Setup](./Machine_Learning_project/main/micro_controller.png)
+![Arduino Setup](./micro_controller.png)
 
 
 
@@ -49,7 +49,7 @@ Sensors → Arduino → ML Model → Crop Prediction
 - Trained on a **crop dataset** containing historical soil and crop data.
 - **Input Features:** pH, Temperature, Humidity, Rainfall, N, P, K values.
 - **Output:** Predicted crop.
-- **ML Code File:** [ML Code File](./Machine_Learning_project/main/crop_prediction.py)
+- **ML Code File:** [ML Code File](./crop_prediction.py)
 
 
 
