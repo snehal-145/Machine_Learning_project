@@ -38,18 +38,18 @@ Sensors → Arduino → ML Model → Crop Prediction
 
 
 **IoT Architecture Image:**  
-![IoT Architecture](./https://github.com/snehal-145/Machine_Learning_project/blob/main/IOT.png)
+![IoT Architecture](./Machine_Learning_project/main/IOT.png)
 
 **Microcontroller Setup:**  
-![Arduino Setup](./path_to_microcontroller_image)
+![Arduino Setup](./Machine_Learning_project/main/micro_controller.png)
 
----
+
 
 ## 🧠 Machine Learning Model
 - Trained on a **crop dataset** containing historical soil and crop data.
 - **Input Features:** pH, Temperature, Humidity, Rainfall, N, P, K values.
 - **Output:** Predicted crop.
-- **ML Code File:** [ML Code File](./path_to_ml_code_file)
+- **ML Code File:** [ML Code File](./Machine_Learning_project/main/crop_prediction.py)
 
 
 
